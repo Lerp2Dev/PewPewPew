@@ -1,0 +1,153 @@
+Base path: C:/Program Files/Unity4.X/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-2-3156
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 68 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4791 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 68 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4791 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 72 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4791 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 72 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4791 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 67 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 72 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_DEPTH ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 70 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=POINT SHADOWS_CUBE ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 80 arithmetic instructions needed to compile program
+  error: 1 plat 1 at /AutoLight.cginc(94): implicit cast from "float3" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(95): implicit cast from "float3" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(96): implicit cast from "float3" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(97): implicit cast from "float3" to "float2"
+  api=1 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Arithmetic instruction limit of 64 exceeded; 67 arithmetic instructions needed to compile program
+  error: 1 plat 0 at /AutoLight.cginc(87): implicit cast from "float4" to "float3"
+  error: 1 plat 0 at /AutoLight.cginc(88): implicit cast from "float4" to "float3"
+  error: 1 plat 0 at /AutoLight.cginc(89): implicit cast from "float4" to "float3"
+  error: 1 plat 0 at /AutoLight.cginc(90): implicit cast from "float4" to "float3"
+  api=0 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Arithmetic instruction limit of 64 exceeded; 66 arithmetic instructions needed to compile program
+  api=0 type=1 insize=4814 outsize=0 kw=POINT SHADOWS_CUBE SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Instruction limit of 96 exceeded; 108 instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Maximum texture indirection of 4 exceeded; 5 indirections needed to compile program
+  error: 1 plat 0 at (204): implicit cast from "float4" to "float2"
+  api=0 type=1 insize=4179 outsize=0 kw=POINT SHADOWS_CUBE ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Temporary register limit of 12 exceeded; 13 registers needed to compile program
+  error: 1 plat 1 at (204): implicit cast from "float4" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(94): implicit cast from "float3" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(95): implicit cast from "float3" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(96): implicit cast from "float3" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(97): implicit cast from "float3" to "float2"
+  api=1 type=1 insize=4179 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 73 arithmetic instructions needed to compile program
+  error: 1 plat 1 at (204): implicit cast from "float4" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(87): implicit cast from "float4" to "float3"
+  error: 1 plat 1 at /AutoLight.cginc(88): implicit cast from "float4" to "float3"
+  error: 1 plat 1 at /AutoLight.cginc(89): implicit cast from "float4" to "float3"
+  error: 1 plat 1 at /AutoLight.cginc(90): implicit cast from "float4" to "float3"
+  api=1 type=1 insize=4179 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Instruction limit of 96 exceeded; 107 instructions needed to compile program
+  error: 1 plat 1 at (204): implicit cast from "float4" to "float2"
+  api=1 type=1 insize=4179 outsize=0 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 68 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4791 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 68 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4791 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 72 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4791 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 67 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 71 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 72 arithmetic instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=POINT_COOKIE SHADOWS_CUBE ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Arithmetic instruction limit of 64 exceeded; 67 arithmetic instructions needed to compile program
+  error: 1 plat 0 at /AutoLight.cginc(94): implicit cast from "float3" to "float2"
+  error: 1 plat 0 at /AutoLight.cginc(95): implicit cast from "float3" to "float2"
+  error: 1 plat 0 at /AutoLight.cginc(96): implicit cast from "float3" to "float2"
+  error: 1 plat 0 at /AutoLight.cginc(97): implicit cast from "float3" to "float2"
+  api=0 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Arithmetic instruction limit of 64 exceeded; 67 arithmetic instructions needed to compile program
+  error: 1 plat 0 at /AutoLight.cginc(87): implicit cast from "float4" to "float3"
+  error: 1 plat 0 at /AutoLight.cginc(88): implicit cast from "float4" to "float3"
+  error: 1 plat 0 at /AutoLight.cginc(89): implicit cast from "float4" to "float3"
+  error: 1 plat 0 at /AutoLight.cginc(90): implicit cast from "float4" to "float3"
+  api=0 type=1 insize=4814 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Arithmetic instruction limit of 64 exceeded; 66 arithmetic instructions needed to compile program
+  api=0 type=1 insize=4814 outsize=0 kw=POINT SHADOWS_CUBE SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Instruction limit of 96 exceeded; 102 instructions needed to compile program
+  api=1 type=1 insize=4814 outsize=0 kw=POINT SHADOWS_CUBE SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Arithmetic instruction limit of 64 exceeded; 67 arithmetic instructions needed to compile program
+  api=0 type=1 insize=4814 outsize=0 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Maximum texture indirection of 4 exceeded; 5 indirections needed to compile program
+  error: 1 plat 0 at (204): implicit cast from "float4" to "float2"
+  api=0 type=1 insize=4179 outsize=0 kw=POINT SHADOWS_CUBE ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 65 arithmetic instructions needed to compile program
+  error: 1 plat 1 at (204): implicit cast from "float4" to "float2"
+  api=1 type=1 insize=4179 outsize=0 kw=POINT_COOKIE SHADOWS_CUBE ok=0
+Cmd: compileSnippet
+  error: 2 plat 0 at (0): Maximum texture indirection of 4 exceeded; 5 indirections needed to compile program
+  error: 1 plat 0 at (204): implicit cast from "float4" to "float2"
+  error: 1 plat 0 at /AutoLight.cginc(94): implicit cast from "float3" to "float2"
+  error: 1 plat 0 at /AutoLight.cginc(95): implicit cast from "float3" to "float2"
+  error: 1 plat 0 at /AutoLight.cginc(96): implicit cast from "float3" to "float2"
+  error: 1 plat 0 at /AutoLight.cginc(97): implicit cast from "float3" to "float2"
+  api=0 type=1 insize=4179 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Arithmetic instruction limit of 64 exceeded; 73 arithmetic instructions needed to compile program
+  error: 1 plat 1 at (204): implicit cast from "float4" to "float2"
+  error: 1 plat 1 at /AutoLight.cginc(87): implicit cast from "float4" to "float3"
+  error: 1 plat 1 at /AutoLight.cginc(88): implicit cast from "float4" to "float3"
+  error: 1 plat 1 at /AutoLight.cginc(89): implicit cast from "float4" to "float3"
+  error: 1 plat 1 at /AutoLight.cginc(90): implicit cast from "float4" to "float3"
+  api=1 type=1 insize=4179 outsize=0 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at (0): Instruction limit of 96 exceeded; 107 instructions needed to compile program
+  error: 1 plat 1 at (204): implicit cast from "float4" to "float2"
+  api=1 type=1 insize=4179 outsize=0 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT ok=0
+Unhandled exception: Readfile from pipe failed. GLE=Ha terminado la canalización.
+
+
+Quitting shader compiler process
